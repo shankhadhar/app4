@@ -1,0 +1,14 @@
+{
+  "appname": "app4",
+  "scope": "",
+  "clientid": "C6AEBCD5-E032-4712-9231-4820216E22DA",
+  "buyerid": null,
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
